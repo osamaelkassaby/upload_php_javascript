@@ -1,0 +1,54 @@
+body{
+    background-color: #01161e;
+}
+
+.logo{
+  color: #ef1729;
+  font-size: 50px;
+
+}
+.e{
+  color: #004e98;
+  font-size: 50px;
+
+}.cloud{
+  color: #ffd60a;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+form{
+    text-align: center;
+}
+.txt p{
+    font-size: 30px;
+    color: aliceblue;
+}
+input{
+    width: 350px;
+    font-size: 30px;
+    border-radius: 15px;
+    border: solid 1px #ef1729;
+    background-color: #010f15;
+    color: #ffffff;
+}
+button{
+    color: aliceblue;
+    background-color: #ef1729;
+    font-size: 30px;
+    margin: 20px;
+    width: 165px;
+    height: 45px;
+    border-radius: 10px;
+    border: solid 1px #ffffff;
+    font-weight: bold;
+}
+.erorr p{
+    color: #cc0213;
+    font-size: 25px;
+    font-weight: bold;
+  }
+input::placeholder {
+    color: rgb(255, 255, 255);
+    margin: 10px;
+  }
